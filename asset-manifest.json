@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Albin-kp/Todo/static/css/main.3db48221.css",
+    "main.js": "/Albin-kp/Todo/static/js/main.978ca22c.js",
+    "static/js/787.39bb0775.chunk.js": "/Albin-kp/Todo/static/js/787.39bb0775.chunk.js",
+    "index.html": "/Albin-kp/Todo/index.html",
+    "main.3db48221.css.map": "/Albin-kp/Todo/static/css/main.3db48221.css.map",
+    "main.978ca22c.js.map": "/Albin-kp/Todo/static/js/main.978ca22c.js.map",
+    "787.39bb0775.chunk.js.map": "/Albin-kp/Todo/static/js/787.39bb0775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3db48221.css",
+    "static/js/main.978ca22c.js"
+  ]
+}
